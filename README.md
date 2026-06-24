@@ -1,4 +1,4 @@
-# 🌐 Muskan Yadav - Personal Portfolio
+# 🌐 Muskan - Personal Portfolio
 
 Welcome to my personal portfolio website! This portfolio highlights my journey as a Computer Science Engineer, showcasing my technical skills, projects, internships, and achievements in Software Development, Machine Learning, and Data Analytics.
 
